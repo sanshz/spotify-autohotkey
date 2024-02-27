@@ -1,13 +1,13 @@
 ﻿;play/pause
-F9::Media_Play_Pause
+ScrollLock::Media_Play_Pause
+
+;next
+^CtrlBreak::Media_Next
+
+/*
 
 ;prev
 F10::Media_Prev
-
-;next
-F11::Media_Next
-
-/*
 
 ;stop
 ::Media_Stop
